@@ -1,0 +1,6 @@
+[cloudstack-4.11]
+name=cloudstack
+baseurl=http://packages.shapeblue.com/testing/4111rc2/centos7/4.11/
+enabled=1
+gpgcheck=0
+gpgkey=http://packages.shapeblue.com/release.asc
